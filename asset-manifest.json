@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DeployWeb/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/DeployWeb/static/js/main.9364eae3.chunk.js",
-    "main.js.map": "/DeployWeb/static/js/main.9364eae3.chunk.js.map",
-    "runtime-main.js": "/DeployWeb/static/js/runtime-main.a35efb1e.js",
-    "runtime-main.js.map": "/DeployWeb/static/js/runtime-main.a35efb1e.js.map",
-    "static/js/2.a763a3cd.chunk.js": "/DeployWeb/static/js/2.a763a3cd.chunk.js",
-    "static/js/2.a763a3cd.chunk.js.map": "/DeployWeb/static/js/2.a763a3cd.chunk.js.map",
-    "static/js/3.abad4705.chunk.js": "/DeployWeb/static/js/3.abad4705.chunk.js",
-    "static/js/3.abad4705.chunk.js.map": "/DeployWeb/static/js/3.abad4705.chunk.js.map",
-    "index.html": "/DeployWeb/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/DeployWeb/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a763a3cd.chunk.js.LICENSE.txt": "/DeployWeb/static/js/2.a763a3cd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/DeployWeb/static/media/logo.6ce24c58.svg"
+    "main.css": "/deployweb/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/deployweb/static/js/main.9364eae3.chunk.js",
+    "main.js.map": "/deployweb/static/js/main.9364eae3.chunk.js.map",
+    "runtime-main.js": "/deployweb/static/js/runtime-main.34d59d99.js",
+    "runtime-main.js.map": "/deployweb/static/js/runtime-main.34d59d99.js.map",
+    "static/js/2.a763a3cd.chunk.js": "/deployweb/static/js/2.a763a3cd.chunk.js",
+    "static/js/2.a763a3cd.chunk.js.map": "/deployweb/static/js/2.a763a3cd.chunk.js.map",
+    "static/js/3.abad4705.chunk.js": "/deployweb/static/js/3.abad4705.chunk.js",
+    "static/js/3.abad4705.chunk.js.map": "/deployweb/static/js/3.abad4705.chunk.js.map",
+    "index.html": "/deployweb/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/deployweb/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a763a3cd.chunk.js.LICENSE.txt": "/deployweb/static/js/2.a763a3cd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deployweb/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a35efb1e.js",
+    "static/js/runtime-main.34d59d99.js",
     "static/js/2.a763a3cd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.9364eae3.chunk.js"
