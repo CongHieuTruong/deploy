@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deployweb/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/deployweb/static/js/main.7c6c7658.chunk.js",
-    "main.js.map": "/deployweb/static/js/main.7c6c7658.chunk.js.map",
-    "runtime-main.js": "/deployweb/static/js/runtime-main.34d59d99.js",
-    "runtime-main.js.map": "/deployweb/static/js/runtime-main.34d59d99.js.map",
-    "static/js/2.a763a3cd.chunk.js": "/deployweb/static/js/2.a763a3cd.chunk.js",
-    "static/js/2.a763a3cd.chunk.js.map": "/deployweb/static/js/2.a763a3cd.chunk.js.map",
-    "static/js/3.abad4705.chunk.js": "/deployweb/static/js/3.abad4705.chunk.js",
-    "static/js/3.abad4705.chunk.js.map": "/deployweb/static/js/3.abad4705.chunk.js.map",
-    "index.html": "/deployweb/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/deployweb/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a763a3cd.chunk.js.LICENSE.txt": "/deployweb/static/js/2.a763a3cd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/deployweb/static/media/logo.6ce24c58.svg"
+    "main.css": "//hieutruong.tk/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "//hieutruong.tk/static/js/main.7c6c7658.chunk.js",
+    "main.js.map": "//hieutruong.tk/static/js/main.7c6c7658.chunk.js.map",
+    "runtime-main.js": "//hieutruong.tk/static/js/runtime-main.1e3fc382.js",
+    "runtime-main.js.map": "//hieutruong.tk/static/js/runtime-main.1e3fc382.js.map",
+    "static/js/2.a763a3cd.chunk.js": "//hieutruong.tk/static/js/2.a763a3cd.chunk.js",
+    "static/js/2.a763a3cd.chunk.js.map": "//hieutruong.tk/static/js/2.a763a3cd.chunk.js.map",
+    "static/js/3.abad4705.chunk.js": "//hieutruong.tk/static/js/3.abad4705.chunk.js",
+    "static/js/3.abad4705.chunk.js.map": "//hieutruong.tk/static/js/3.abad4705.chunk.js.map",
+    "index.html": "//hieutruong.tk/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "//hieutruong.tk/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a763a3cd.chunk.js.LICENSE.txt": "//hieutruong.tk/static/js/2.a763a3cd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "//hieutruong.tk/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.34d59d99.js",
+    "static/js/runtime-main.1e3fc382.js",
     "static/js/2.a763a3cd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.7c6c7658.chunk.js"
